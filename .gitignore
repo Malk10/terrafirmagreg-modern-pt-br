@@ -1,0 +1,10 @@
+# Release ZIPs are attached to GitHub Releases, not stored in Git history.
+*.zip
+*.jar
+*.7z
+*.exe
+*.msi
+
+.DS_Store
+Thumbs.db
+Desktop.ini
