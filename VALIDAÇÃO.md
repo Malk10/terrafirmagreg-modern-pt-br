@@ -8,7 +8,7 @@ O pacote é funcional e cobre praticamente todas as chaves de idioma examinadas.
 
 - **Idiomas:** 201 namespaces e 59.227 chaves de origem examinadas; 0 chaves examinadas sem uma entrada PT-BR no pacote gerado.
 - **Quests:** 26 capítulos comparados individualmente com o original 0.13.10; 656 textos literais convertidos em referências de idioma; 0 mudanças estruturais e 0 chaves de quest ausentes.
-- **Patch de quests:** 15 capítulos realmente alterados são distribuídos. Os outros 11 capítulos comparados não precisam ser substituídos.
+- **Patch de quests:** 15 capítulos realmente alterados são distribuídos. Os outros 11 capítulos comparados não precisam ser substituídos. O patch inclui a licença LGPL-3.0 da origem dos capítulos e do script modificados.
 - **Chaves de quests:** 3.847 entradas localizadas.
 - **Pacote:** 663 arquivos; JSONs válidos; caminhos internos do ZIP verificados.
 - **KubeJS:** uma mensagem literal convertida para chave de idioma; a comparação confirma que essa é a única alteração naquele script.

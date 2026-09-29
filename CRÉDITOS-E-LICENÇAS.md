@@ -12,6 +12,8 @@ As traduções referenciam chaves e conteúdo de TerraFirmaGreg Modern e dos mod
 
 O patch de quests foi comparado com a versão original 0.13.10 e limita as alterações a textos visíveis que passam a apontar para chaves de idioma; não altera IDs, tarefas, recompensas, dependências, receitas ou progressão. A distribuição do patch não inclui o modpack completo.
 
+Os arquivos de quests e o script KubeJS incluídos no patch são derivados de TerraFirmaGreg Modern 0.13.10, cujo repositório publica uma licença LGPL-3.0. O arquivo de licença correspondente foi incluído no ZIP do patch: <https://github.com/TerraFirmaGreg-Team/Modpack-Modern/blob/0.13.10/LICENSE>.
+
 ## Auxílio de IA/LLMs
 
 Modelos de inteligência artificial/LLMs auxiliaram a tradução, revisão, padronização terminológica, comparação entre versões e preparação dos arquivos. O trabalho permanece em validação e não é apresentado como uma tradução exclusivamente humana ou oficialmente aprovada pelo TerraFirmaGreg.

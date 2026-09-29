@@ -18,7 +18,7 @@ Os dois arquivos são necessários para a experiência completa em PT-BR.
 1. Confirme que sua instância é **TerraFirmaGreg Modern 0.13.10**.
 2. Feche o Minecraft.
 3. Extraia `TerraFirmaGreg_PT-BR_0.13.10.zip` em `resourcepacks/` da instância.
-4. Extraia `TerraFirmaGreg_PT-BR_0.13.10_Patch_Quests.zip` na pasta principal da instância, preservando os caminhos do ZIP. Ele substitui 15 arquivos de capítulos e `kubejs/server_scripts/tfg/events.interactions.js`.
+4. Extraia `TerraFirmaGreg_PT-BR_0.13.10_Patch_Quests.zip` na pasta principal da instância, preservando os caminhos do ZIP. Ele substitui 15 arquivos de capítulos e `kubejs/server_scripts/tfg/events.interactions.js`; inclui a licença LGPL-3.0 da origem desses arquivos.
 5. Abra o jogo, ative o resource pack e selecione **Português (Brasil)**.
 
 > Antes de aplicar o patch, mantenha uma cópia dos arquivos que serão substituídos, especialmente se você tiver alterado quests ou scripts. Não aplique em outras versões do modpack.

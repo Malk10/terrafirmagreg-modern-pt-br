@@ -1,2 +1,2 @@
 fc2a09790fe8d20a23c803fdbdee30adaeb39c4121b3c71abac1fa52be6cfdc6  TerraFirmaGreg_PT-BR_0.13.10.zip
-ed4896c00cef1903d53c3d2c883276e93f3a4c4f7cb40d5e585976fbe1e95f42  TerraFirmaGreg_PT-BR_0.13.10_Patch_Quests.zip
+e0f9a43bec2adba1258f754eda335b8d2a3041668b1a9d583425f989c106817f  TerraFirmaGreg_PT-BR_0.13.10_Patch_Quests.zip
